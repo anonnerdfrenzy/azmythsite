@@ -125,6 +125,12 @@ html, body {
 
 .btn-emoji { font-size: 20px; }
 
+.button.small {
+  padding: 10px 14px;
+  font-size: 14px;
+  border-radius: 12px;
+}
+
 /* animations removed */
 
 .microcopy { color: var(--muted); font-size: 14px; margin-top: 10px; }
